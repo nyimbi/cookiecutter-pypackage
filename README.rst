@@ -14,7 +14,7 @@ Cookiecutter PyPackage
     :target: https://cookiecutter-pypackage.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-Cookiecutter_ template for a Python package.
+Cookiecutter_ template for a Python package. (Forked from audreyfeldroy/cookiecutter-pypackage)
 
 * GitHub repo: https://github.com/nyimbi/cookiecutter-pypackage/
 * Documentation: https://cookiecutter-pypackage.readthedocs.io/
